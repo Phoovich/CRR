@@ -788,6 +788,8 @@
 - ใช้ช่องกรอกข้อความ (Text Fields), กล่องตัวเลือก (Dropdown Boxes), และกล่องติ๊กเลือก (Checkboxes)
 - เริ่มจากกรอกข้อมูลพื้นฐานของผู้ประสานงานและองค์กร (ดูภาพที่ 2)
 
+![Figure 2: Profile Information](./img/img-3.jpeg)
+
   - คลิกช่องกรอกข้อมูล และใช้ปุ่ม **Tab** เพื่อเลื่อนไปช่องถัดไป
 
 - ในส่วนของคำถาม:
@@ -807,11 +809,19 @@
   4. สถานที่ (Facilities)
 
 - บางคำถามใช้คำตอบแยกตามสินทรัพย์ และบางคำถามใช้คำตอบเดียว (ดูภาพที่ 3)
+
+![Figure 3: Cross-Asset Question and Per-Asset Question](./img/Figure_3:_Cross-Asset_Question_and_Per-Asset_Question)
+
 - ปุ่ม **Clear** ใช้สำหรับล้างคำตอบ และคำแนะนำจะปรากฏเมื่อเลื่อนเมาส์ไปวางเหนือไอคอน (ดูภาพที่ 4)
+
+![Figure 4: Explanatory Information](./img/Figure_4:_Explanatory_Information)
+
 
 #### ช่องบันทึกข้อสังเกตเพิ่มเติม
 
 - มีช่อง **Other Observations** ท้ายแต่ละโดเมน (ดูภาพที่ 5)
+
+![Figure 5: Entry Field for Other Observations](./img/Figure_5:_Entry_Field_for_Other_Observations.png)
 
   - สำหรับบันทึกข้อคิดเห็นเพิ่มเติม เช่น เหตุผลประกอบคำตอบ หรือข้อมูลเฉพาะขององค์กร
   - ข้อความจะถูกคัดลอกไปยังรายงานอัตโนมัติ
