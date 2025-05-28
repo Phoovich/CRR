@@ -912,6 +912,9 @@
 
 - **ใช้ผลลัพธ์กำหนดแนวทาง (ตาม Figure 7)**
 
+<img src="./img/Figure_7:_A_Sampling_of_Individual_Domains.png" alt="Figure 7: A Sampling of Individual Domains" />
+<p style="text-align:center"><em>Figure 7: A Sampling of Individual Domains</em></p>
+
   - โดเมนที่ยังไม่บรรลุ MIL1:
 
     - Asset Management
@@ -923,45 +926,89 @@
 
 - **ตัวอย่างโดเมน Asset Management (Figure 8)**
 
+<img src="./img/Figure_8:Asset_Management_Individual_Domain_Report.png" alt="Figure 8: Asset Management Individual Domain Report" />
+<p style="text-align:center"><em>Figure 8: Asset Management Individual Domain Report</em></p>
+
   - ควรพิจารณาปรับปรุงเรื่อง facilities เพื่อบรรลุ MIL5
   - หากมี site เดียว อาจไม่เร่งด่วน
   - ควรเน้นปรับปรุงในบริเวณที่มีความเสี่ยงสูงสุด
 
 - **ตัวอย่างโดเมน Controls Management (Figure 9)**
 
+<img src="./img/Figure_9:_Controls_Management_Individual_Domain_Report.png" alt="Figure 9: Controls Management Individual Domain Report" />
+
+<p style="text-align:center"><em>Figure 9: Controls Management Individual Domain Report</em></p>
+
+
   - ขาดเพียงการนำมาตรฐานควบคุมไปใช้ = บรรลุ MIL5
   - อาจโฟกัสโดเมนที่ยังไม่บรรลุ MIL1 แทน
 
 - **สรุปผล MIL1 (Figure 10)**
 
+<img src="./img/Figure_10:_CRR_MIL-1_Performance_Summary–Asset_Management.png" alt="Figure 10: CRR Performance Summary at MIL1" />
+
+<p style="text-align:center"><em>Figure 10: CRR Performance Summary at MIL1</em></p>
+
   - แสดงเป้าหมาย, สถานะการดำเนินแนวปฏิบัติ, สรุปต่อโดเมนและทั้งระบบ
 
 - **สรุปเชิงลึก MIL1 (Figure 11)**
+
+<img src="./img/Figure_11:_CRR_MIL-1_Performance–Vulnerability_Management.png" alt="Figure 11: CRR MIL-1 Performance – Vulnerability Management" />
+
+<p style="text-align:center"><em>Figure 11: CRR MIL-1 Performance – Vulnerability Management</em></p>
 
   - Facility assets อ่อนแอกว่าอื่น ๆ
   - ช่วยระบุจุดอ่อนตามประเภทสินทรัพย์
 
 - **สรุปภาพรวมของ CRR (Figure 12)**
 
+<img src="./img/Figure_12:_CRR_Performance_View.png" alt="Figure 12: CRR Performance View" />
+
+<p style="text-align:center"><em>Figure 12: CRR Performance View</em></p>
+
   - ให้มุมมองครอบคลุมทุกโดเมน
   - ใช้วางแผนปรับปรุงระบบ
 
 - **การวิเคราะห์ด้วย Figure 13 และ 14**
+
+<img src="./img/img-14.jpeg" alt="Figure 13: Summary of CRR Results" />
+
+<p style="text-align:center"><em>Figure 13: Summary of CRR Results</em></p>
+
+<img src="./img/Figure_14:_Percentage_of_Practices_Completed_by_Domain.png" alt="Figure 14: Percentage of Practices Completed by Domain" />
+
+<p style="text-align:center"><em>Figure 14: Percentage of Practices Completed by Domain</em></p>
 
   - แม้ทำ 95% แต่ขาดบาง MIL1 = ไม่บรรลุ MIL ใดเลย
   - MIL เป็นแบบสะสม ต้องครบระดับล่างก่อนขึ้นระดับบน
 
 - **การแมปกับ NIST CSF (Figure 15)**
 
+<img src="./img/Figure_15:_NIST_Cybersecurity_Framework_Summary.png" alt="Figure 15: NIST Cybersecurity Framework Summary" />
+
+<p style="text-align:center"><em>Figure 15: NIST Cybersecurity Framework Summary</em></p>
+
   - ผลรวมตาม function/category
   - ใช้วางแผนปรับปรุงเชิงกลยุทธ์
 
 - **เพิ่มเติมจากภาคผนวก A (Figure 16-17)**
 
+<img src="./img/Figure_16:_NIST_Cybersecurity_Framework_Category_Summary.png" alt="Figure 16: NIST Cybersecurity Framework Category Summary" />
+
+<p style="text-align:center"><em>Figure 16: NIST Cybersecurity Framework Category Summary</em></p>
+
+<img src="./img/Figure_17:_NIST_Cybersecurity_Framework_Category_Performance.png" alt="Figure 17: NIST Cybersecurity Framework Category Performance" />
+
+<p style="text-align:center"><em>Figure 17: NIST Cybersecurity Framework Category Performance</em></p>
+
   - ระบุ CRR ที่แมปกับ NIST CSF
   - ช่วยดูความครอบคลุมและวางแผนพัฒนาได้ดี
 
 - **ตัวเลือกเพื่อการพิจารณา (Figure 18)**
+
+<img src="./img/Figure_18:_Option_for_Consideration.png" alt="Figure 18: Option for Consideration" />
+
+<p style="text-align:center"><em>Figure 18: Option for Consideration</em></p>
 
   - ช่วยเลือกแนวทางปรับปรุงแนวปฏิบัติ
   - อ้างอิงจาก CERT-RMM และ NIST SP
